@@ -1,0 +1,13 @@
+﻿/.vs/
+/.vs/config
+/**/bin/
+/**/obj/
+/**/Debug/
+/**/Release/
+/**/ipch/
+*.user
+*.exe
+*.suo
+*.db
+*.opendb
+*.zip
