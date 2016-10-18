@@ -14,4 +14,4 @@ all the necessary resources to Azure (infrastructure code).
 
 ### 'src'
 
-This folder contains code for CGI app (.exe which prints out )
+This folder contains code for legacy applications.
